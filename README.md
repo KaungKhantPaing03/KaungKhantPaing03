@@ -37,5 +37,5 @@ Short description
 - LinkedIn
 - Portfolio https://kaungkhantpaing.netlify.app/
 
-![Python](https://img.shields.io/badge/Python-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaungKhantPaing03&layout=compact)
