@@ -38,4 +38,4 @@ Short description
 - Portfolio https://kaungkhantpaing.netlify.app/
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=KaungKhantPaing03&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaungKhantPaing03&layout=compact&theme=tokyonight)
