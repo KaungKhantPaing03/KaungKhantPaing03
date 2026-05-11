@@ -20,18 +20,12 @@
 
 ---
 
-## 📌 Featured Projects
-
-### Project 1
-Short description
-
-### Project 2
-Short description
-
----
-
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KaungKhantPaing03&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KaungKhantPaing03&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaungKhantPaing03&layout=compact&theme=tokyonight)
 
 ---
 
@@ -40,7 +34,4 @@ Short description
 - LinkedIn
 - Portfolio https://kaungkhantpaing.netlify.app/
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KaungKhantPaing03&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaungKhantPaing03&layout=compact&theme=tokyonight" width="36%" />
-</p>
+
