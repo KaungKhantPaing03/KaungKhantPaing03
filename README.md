@@ -31,8 +31,7 @@ Short description
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaungKhantPaing03&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaungKhantPaing03&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
