@@ -36,3 +36,6 @@ Short description
 
 - LinkedIn
 - Portfolio https://kaungkhantpaing.netlify.app/
+
+![Python](https://img.shields.io/badge/Python-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
