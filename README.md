@@ -32,7 +32,7 @@ Short description
 
 ## 📊 GitHub Stats
 
-(Add later)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaungKhantPaing03&show_icons=true&theme=tokyonight)
 
 ---
 
