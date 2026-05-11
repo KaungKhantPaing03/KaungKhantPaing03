@@ -38,7 +38,7 @@ Short description
 - Portfolio https://kaungkhantpaing.netlify.app/
 
 <p align="center">
-  <h1>GitHub Streak</h1>
+  <h6>GitHub Streak</h6>
   <img src="https://streak-stats.demolab.com?user=KaungKhantPaing03&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaungKhantPaing03&layout=compact&theme=tokyonight" width="36%" />
 </p>
