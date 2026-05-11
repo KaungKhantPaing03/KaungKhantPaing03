@@ -39,5 +39,5 @@ Short description
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KaungKhantPaing03&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Error Fetching Resource&layout=compact&theme=tokyonight" width="36%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaungKhantPaing03&layout=compact&theme=tokyonight" width="36%" />
 </p>
