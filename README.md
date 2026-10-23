@@ -31,7 +31,7 @@
 
 ## 🌐 Connect
 
-- LinkedIn
+- LinkedIn  https://www.linkedin.com/in/kaung-khant-paing-1a104a297/
 - Portfolio https://kaungkhantpaing.netlify.app/
 
 
